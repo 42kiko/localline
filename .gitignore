@@ -1,0 +1,126 @@
+# See https://www.dartlang.org/guides/libraries/private-files
+
+# Files and directories created by pub
+.dart_tool/
+.packages
+.pub/
+build/
+**/doc/api/
+**/android/.gradle/
+**/android/.idea/
+**/android/app/release/
+**/android/app/debug/
+**/ios/.generated/
+**/ios/Flutter/App.framework/
+**/ios/Flutter/Flutter.framework/
+**/ios/Flutter/Generated.xcconfig/
+**/ios/Flutter/app.flx/
+**/ios/Flutter/app.zip/
+**/ios/Flutter/flutter_assets/
+**/ios/ServiceDefinitions.json/
+**/ios/Runner/GeneratedPluginRegistrant.*
+
+# Flutter/Dart/Pub related
+**/Flutter/bin/cache/
+**/Flutter/bin/cache/flutter_tools.stamp
+**/Flutter/dev/automated_tests/
+**/Flutter/dev/bots/
+**/Flutter/dev/docs/
+**/Flutter/dev/integration_tests/
+**/Flutter/dev/tools/
+**/Flutter/examples/
+**/Flutter/flow/
+**/Flutter/packages/
+**/Flutter/version
+/.flutter-plugins
+/.flutter-plugins-dependencies
+/.metadata
+/.idea
+/.vscode
+/symlinks/
+/pubspec.lock
+**/osx/Flutter/GeneratedPluginRegistrant.swift
+
+# Android related
+**/android/**/GeneratedPluginRegistrant.java
+**/android/**/gradle-wrapper.jar
+**/android/.gradle/
+**/android/captures/
+**/android/gradlew
+**/android/gradlew.bat
+**/android/local.properties
+**/android/**/GeneratedPluginRegistrant.java
+
+# iOS related
+**/ios/**/*.mode1v3
+**/ios/**/*.mode2v3
+**/ios/**/*.pbxuser
+**/ios/**/*.perspectivev3
+**/ios/**/*.pyc
+**/ios/**/*.sync/
+**/ios/**/.sconsign.dblite
+**/ios/**/.tags*
+**/ios/**/.vagrant/
+**/ios/**/DerivedData/
+**/ios/**/Icon?
+**/ios/**/Pods/
+**/ios/**/.symlinks/
+**/ios/**/profile
+**/ios/**/xcuserdata
+**/ios/.generated/
+**/ios/Flutter/App.framework/
+**/ios/Flutter/Flutter.framework/
+**/ios/Flutter/Generated.xcconfig/
+**/ios/Flutter/app.flx/
+**/ios/Flutter/app.zip/
+**/ios/Flutter/flutter_assets/
+**/ios/ServiceDefinitions.json/
+**/ios/Runner/GeneratedPluginRegistrant.*
+
+# Exceptions to the above rules.
+!**/ios/**/default.mode1v3
+!**/ios/**/default.mode2v3
+!**/ios/**/default.pbxuser
+!**/ios/**/default.perspectivev3
+!**/ios/**/default.pyc
+!**/ios/**/Pods/Target Support Files/
+!**/ios/**/Pods/Target Support Files/Pods-Runner/
+!**/ios/**/Pods/Target Support Files/Pods-Runner/Pods-Runner-acknowledgements.markdown
+!**/ios/**/Pods/Target Support Files/Pods-Runner/Pods-Runner-acknowledgements.plist
+!**/ios/**/Pods/Target Support Files/Pods-Runner/Pods-Runner-dummy.m
+!**/ios/**/Pods/Target Support Files/Pods-Runner/Pods-Runner-frameworks.sh
+!**/ios/**/Pods/Target Support Files/Pods-Runner/Pods-Runner-resources.sh
+!**/ios/**/Pods/Target Support Files/Pods-Runner/Pods-Runner-umbrella.h
+!**/ios/**/Pods/Target Support Files/Pods-Runner/Pods-Runner.debug.xcconfig
+!**/ios/**/Pods/Target Support Files/Pods-Runner/Pods-Runner.release.xcconfig
+
+# Desktop
+**/linux/flutter/ephemeral/
+**/linux/flutter/generated_plugin_registrant.cc
+**/linux/flutter/generated_plugin_registrant.h
+**/linux/flutter/generated_plugins.cmake
+**/macos/flutter/ephemeral/
+**/macos/flutter/generated_plugin_registrant.cc
+**/macos/flutter/generated_plugin_registrant.h
+**/macos/flutter/generated_plugins.cmake
+**/windows/flutter/ephemeral/
+**/windows/flutter/generated_plugin_registrant.cc
+**/windows/flutter/generated_plugin_registrant.h
+**/windows/flutter/generated_plugins.cmake
+
+# Coverage
+coverage/
+
+# DS_Store
+.DS_Store
+**/.DS_Store
+
+# IDE
+.vscode/
+.idea/
+*.iml
+*.swp
+*.swo
+
+# Local History
+.history/
